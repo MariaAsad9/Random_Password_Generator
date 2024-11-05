@@ -25,5 +25,5 @@ The Advanced Password Generator is a secure and user-friendly application that a
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MariaAsad9/Random_Password_Generator.git
    cd advanced-password-generator
